@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ResourceDictionary xmlns="http://xamarin.com/schemas/2014/forms"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+                    x:Class="ChangeTimeOfDay.Themes.LightTheme">
+
+
+    <!-- Background Image -->
+    <x:String x:Key="MountainImage">mountain_light</x:String>
+
+    <Color x:Key="HeaderColor">#FFFFFF</Color>
+    <Color x:Key="ArrowColor">#768ea0</Color>
+    <Color x:Key="BorderColor">#d2d7dd</Color>
+    <Color x:Key="TagColor">#ffa318</Color>
+    <Color x:Key="TabSubTextColor">#FFFFFF</Color>
+    <Color x:Key="SubTextColor">#FFFFFF</Color>
+    <Color x:Key="TempLabelColor">#ffffff</Color>
+
+    <!--BackgroundGradients-->
+    <Color x:Key="BackgroundGradientStartColor">#ecc19c</Color>
+    <Color x:Key="BackgroundGradientMidColor">#1e847f</Color>
+    <Color x:Key="BackgroundGradientEndColor">#ecc19c</Color>
+
+    <!--Guage Gradients-->
+    <Color x:Key="GaugeGradientStartColor">#4a536b</Color>
+    <Color x:Key="GaugeGradientEndColor">#ff9a8d</Color>
+</ResourceDictionary>
